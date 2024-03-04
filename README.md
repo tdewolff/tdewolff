@@ -1,6 +1,4 @@
 # Taco de Wolff
-https://dewolff.ai/
-
 A collection of integrated tools and libraries using the Go programming language.
 - [prompt](https://github.com/tdewolff/prompt): Command line prompting by scanning into any variable type using a text, select, or checkbox input prompt.
 - [argp](https://github.com/tdewolff/argp): Command line argument parsing, including parsing lists and maps and configuration files.
