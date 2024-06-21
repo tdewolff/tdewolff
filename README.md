@@ -3,8 +3,7 @@ A collection of integrated tools and libraries using the Go programming language
 - [prompt](https://github.com/tdewolff/prompt): Command line prompting by scanning into any variable type using a text, select, or checkbox input prompt.
 - [argp](https://github.com/tdewolff/argp): Command line argument parsing, including parsing lists and maps and configuration files.
 - [font](https://github.com/tdewolff/font): Font parsing and manipulation for TTF, OTF, TTC, WOFF, WOFF2, and EOT file types.
-  - [cmd/fontinfo](https://github.com/tdewolff/font/tree/master/cmd/fontinfo): Show font information and draw glyphs in terminal or as image.
-  - [cmd/fontsubset](https://github.com/tdewolff/font/tree/master/cmd/fontsubset): Subset a font by selecting the given glyph IDs, glyph names, or literal characters.
+  - [cmd/fontcmd](https://github.com/tdewolff/font/tree/master/cmd/fontcmd): Font toolkit that can select a subset of glyphs from a font, merge fonts, or show font information and display glyphs in the command line or as a raster image.
 - [locale](https://github.com/tdewolff/locale): Handling of locale-specific parsing of dates, date intervals, currencies, etc using the CLDR dataset.
 - [mail](https://github.com/tdewolff/mail): Mail related utilities, including parsing DMARC and SMTP TLS reports and the milter protocol.
   - [milter](https://github.com/tdewolff/mail/tree/master/cmd/milter): A mail filter to prevent e-mail spoofing, use Sender Rewriting Scheme (SRS), and parse SMTP TLS/DMARC reports.
