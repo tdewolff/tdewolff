@@ -11,3 +11,4 @@ A collection of integrated tools and libraries using the Go programming language
 - [minify](https://github.com/tdewolff/minify): High-performance minifiers for web file formats, such as HTML, CSS, JS, JSON, and XML.
   - [cmd/minify](https://github.com/tdewolff/minify/tree/master/cmd/minify): Command line tool to minify files.
 - [canvas](https://github.com/tdewolff/canvas): Vector graphics library that can output raster images, SVGs, PDFs, HTML Canvas, TeX, PostScript, etc. file formats.
+- [geo](https://github.com/tdewolff/geo): Geospatial library including an OSM PBF file parser and geometry extractor.
